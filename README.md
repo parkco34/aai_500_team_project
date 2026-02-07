@@ -6,6 +6,7 @@
 
 #doing it one more time
 
+<<<<<<< HEAD
 
 # Parker added
 # Lung Cancer Risk Analysis
@@ -91,3 +92,6 @@ Visualizations include:
 - Bar charts
 - Boxplots
 
+=======
+Try this one - reema 
+>>>>>>> 0c5d448602bc0fd2d5bfe8b35edfa05cc8facc1e
