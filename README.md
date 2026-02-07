@@ -8,7 +8,7 @@
 
 <<<<<<< HEAD
 
-# Parker added
+# Parker added -reema confirmed here 
 # Lung Cancer Risk Analysis
 ### Final Team Project – Probability and Statistics for Artificial Intelligence (AAI-500)
 
