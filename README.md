@@ -1,11 +1,18 @@
 #Lung Cancer Risk Assessment: Multivariate Modeling for the Initial Primary Care Visit
 
-#First part includes EDA: Information about the dataset, class imbalance, Mean/Proportion Feature by Risk Class plots, Distribution by Risk Class plots, box plots, heatmap
+First part includes EDA: Information about the dataset, class imbalance, Mean/Proportion Feature by Risk Class plots, Distribution by Risk Class plots, box plots, heatmap
 Narrowed down correlation plot.
 
-#Second part: Logistic Regression and Random Forest Modelling, prediction of the same patient by 2 models.
+Second part: Logistic Regression and Random Forest Modelling, prediction of the same patient by 2 models.
 
-#Last part: Model metrics comparison and confusion matrices for both models, ROC Curve plot.
+Last part: Model metrics comparison and confusion matrices for both models, ROC Curve plot.
+
+#Notes
+
+Total execution times approximately:
+EDA ~ 07.12 seconds
+Logistic Regression Model ~ 032 miliseconds
+Random Forest Model ~ 01.88 seconds
 
 
 #References
