@@ -1,8 +1,0 @@
-
-# Ignore files
-.ipynb_checkpoints
-delete* # Temproary files I usually name 'delete'
-.DS_Store
-
-# Ignore directories
-data/
