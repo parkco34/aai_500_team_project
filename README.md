@@ -10,12 +10,15 @@ Last part: Model metrics comparison and confusion matrices for both models, ROC 
 #Notes
 
 Total execution times approximately:
-EDA ~ 07.12 seconds
-Logistic Regression Model ~ 032 miliseconds
-Random Forest Model ~ 01.88 seconds
+
+Logistic Regression Model ~ 06 miliseconds
+
+Random Forest Model ~ 03.36 seconds
 
 
 #References
+
+Anthropic. (2024). Claude [Large language model]. https://www.anthropic.com
 
 Harris, C. R., et al. (2020). Array programming with NumPy. Nature, 585, 357–362. https://doi.org/10.1038/s41586-020-2649-2
 
